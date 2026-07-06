@@ -1,3 +1,7 @@
+<img width="1723" height="1022" alt="PCB_ALU" src="https://github.com/user-attachments/assets/ed1f2e0a-ae41-4cc2-8d13-7e723857cce8" />
+<img width="1723" height="1022" alt="Driver_PCB" src="https://github.com/user-attachments/assets/5d36d5d8-f7e9-4585-8b18-1c13aa145999" />
+
+
 <img width="2339" height="1653" alt="system-bloc-photon-drive-1" src="https://github.com/user-attachments/assets/eb85de5a-d365-426f-8ae6-19bb1c070585" />
 
 
