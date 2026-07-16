@@ -108,7 +108,7 @@ Particular attention is given to the switching-current path, current-sense routi
 
 ---
 
-
+## 3V3 Power Supply — LMR38020
 
 The embedded control electronics are powered by an LMR38020 step-down converter.
 
