@@ -39,9 +39,6 @@ The LED tiles are also custom-designed. Each tile integrates multiple LED spectr
 <img width="1723" height="1022" alt="EG50TL Render" src="https://github.com/user-attachments/assets/64289ebe-c966-4bc6-b3bf-6ef162107f5f" />
 
 
-<img width="2200" height="1700" alt="EG50TL Schematic-1" src="https://github.com/user-attachments/assets/87e844ac-4e90-4d9f-afeb-8d97374bd1bc" />
-
-  [EG50TL Schematic.pdf](https://github.com/user-attachments/files/30069267/EG50TL.Schematic.pdf)
 
 ## Modular Architecture
 
@@ -111,7 +108,6 @@ Particular attention is given to the switching-current path, current-sense routi
 
 ---
 
-## 3.3 V Power Supply — LMR38020<img width="1070" height="799" alt="3V3 Power Supply — LMR38020" src="https://github.com/user-attachments/assets/24acf635-5107-4ec2-a552-76a9ce33ad41" />
 
 
 The embedded control electronics are powered by an LMR38020 step-down converter.
