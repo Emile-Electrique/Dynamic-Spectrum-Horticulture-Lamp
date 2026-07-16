@@ -1,5 +1,4 @@
 
-[EG60C4 Schematic.pdf](https://github.com/user-attachments/files/30069184/EG60C4.Schematic.pdf)
 <img width="2339" height="1653" alt="system-bloc-photon-drive-1" src="https://github.com/user-attachments/assets/eb85de5a-d365-426f-8ae6-19bb1c070585" />
 
 # Project Overview
@@ -25,12 +24,7 @@ The main driver board handles power regulation, channel control, sensing and com
 
 <img width="1723" height="1022" alt="EG60C4 Render" src="https://github.com/user-attachments/assets/b28c42f4-d03e-45be-8550-de1af1d68f36" />
 
-<img width="949" height="933" alt="EG60C4 Layers" src="https://github.com/user-attachments/assets/6113da15-f3c3-4a40-b144-6c9cfb4e13ef" />
-
 ![Driver board electrical schematic](docs/images/driver-board-schematic.png)
-
-[View the complete driver board schematic](docs/schematics/driver-board-schematic.pdf)
-
 
 
 <img width="2200" height="1700" alt="EG60C4 Schematic-1" src="https://github.com/user-attachments/assets/b9187d40-3e15-4a7a-9dd9-365ae263e154" />
@@ -39,14 +33,11 @@ The main driver board handles power regulation, channel control, sensing and com
 [EG60C4 Schematic.pdf](https://github.com/user-attachments/files/30069281/EG60C4.Schematic.pdf)
 
 
+
+
 The LED tiles are also custom-designed. Each tile integrates multiple LED spectra on an aluminum-core PCB to improve thermal transfer and create a compact, modular light source.
 
 <img width="1723" height="1022" alt="EG50TL Render" src="https://github.com/user-attachments/assets/64289ebe-c966-4bc6-b3bf-6ef162107f5f" />
-
-![LED tile electrical schematic](docs/images/led-tile-schematic.png)
-<img width="948" height="926" alt="EG50TL Layers" src="https://github.com/user-attachments/assets/8e632e75-9b7b-40ec-a6ba-f30e5febf76f" />
-
-[View the complete LED tile schematic](docs/schematics/led-tile-schematic.pdf)
 
 
 <img width="2200" height="1700" alt="EG50TL Schematic-1" src="https://github.com/user-attachments/assets/87e844ac-4e90-4d9f-afeb-8d97374bd1bc" />
