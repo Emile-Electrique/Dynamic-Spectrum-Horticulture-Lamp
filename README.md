@@ -103,7 +103,8 @@ The driver stages are designed around:
 
 Particular attention is given to the switching-current path, current-sense routing, thermal dissipation and placement of the input, output and timing components.
 
-<img width="1171" height="836" alt="LED Current Drivers — TPS92515HV" src="https://github.com/user-attachments/assets/6555faeb-5a60-4ede-ac64-b0f6bf211c10" />
+<img width="1419" height="847" alt="LED Current Drivers — TPS92515HV" src="https://github.com/user-attachments/assets/7b40067d-a884-43ba-b042-16aab6790c41" />
+
 
 ---
 
