@@ -24,7 +24,6 @@ The main driver board handles power regulation, channel control, sensing and com
 
 <img width="1723" height="1022" alt="EG60C4 Render" src="https://github.com/user-attachments/assets/b28c42f4-d03e-45be-8550-de1af1d68f36" />
 
-![Driver board electrical schematic](docs/images/driver-board-schematic.png)
 
 
 <img width="2200" height="1700" alt="EG60C4 Schematic-1" src="https://github.com/user-attachments/assets/b9187d40-3e15-4a7a-9dd9-365ae263e154" />
