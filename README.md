@@ -1,13 +1,12 @@
-<img width="4624" height="3472" alt="Side_lamp" src="https://github.com/user-attachments/assets/037ad9dd-cfc5-48cd-9ade-279effa233b5" />
 <img width="4624" height="1934" alt="HortiLamp_image_cropped" src="https://github.com/user-attachments/assets/33b9b72a-dd6d-4e2b-8e40-6cc757a2ef10" />
-
-<img width="2339" height="1653" alt="system-bloc-photon-drive-1" src="https://github.com/user-attachments/assets/eb85de5a-d365-426f-8ae6-19bb1c070585" />
 
 # Project Overview
 
 This project is an experimental horticultural lighting platform developed to study how precise spectral control can influence plant growth.
 
 The project compares **targeted-spectrum LED lighting** with more traditional fixed-spectrum approaches. Its main objective is to determine whether dynamically controlled light can support crop steering and enable lighting recipes that evolve throughout the different stages of a grow cycle.
+
+<img width="4624" height="3472" alt="Side_lamp" src="https://github.com/user-attachments/assets/037ad9dd-cfc5-48cd-9ade-279effa233b5" />
 
 ## Project Objectives
 
@@ -17,6 +16,9 @@ The project compares **targeted-spectrum LED lighting** with more traditional fi
 * Measure the interaction between artificial lighting and ambient light.
 * Evaluate energy use, plant response, consistency and practical system performance.
 * Document experimental results against a conventional lighting reference.
+
+<img width="2339" height="1653" alt="system-bloc-photon-drive-1" src="https://github.com/user-attachments/assets/eb85de5a-d365-426f-8ae6-19bb1c070585" />
+
 
 ## Custom Electronics
 
