@@ -49,7 +49,7 @@ The LED tiles are also custom-designed. Each tile integrates multiple LED spectr
 
 
 
-## Modular Architecture
+## Modular Radio-Based Architecture
 
 A complete system consists of:
 
@@ -61,6 +61,10 @@ A complete system consists of:
 * Embedded control and data logging.
 
 This architecture allows the system to scale from approximately **100 W to 200 W** while keeping the same control platform.
+
+<img width="1920" height="1200" alt="manual_software" src="https://github.com/user-attachments/assets/24d9e306-34d4-4218-87db-669c30011e5c" />
+<img width="4624" height="3472" alt="schedule_picture" src="https://github.com/user-attachments/assets/da7d0fa6-09b3-40d0-8d27-4b07fe9d55ca" />
+
 
 ## Research Direction
 
