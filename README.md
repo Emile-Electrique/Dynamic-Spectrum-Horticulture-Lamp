@@ -1,3 +1,4 @@
+<img width="4624" height="1934" alt="HortiLamp_image_cropped" src="https://github.com/user-attachments/assets/33b9b72a-dd6d-4e2b-8e40-6cc757a2ef10" />
 
 <img width="2339" height="1653" alt="system-bloc-photon-drive-1" src="https://github.com/user-attachments/assets/eb85de5a-d365-426f-8ae6-19bb1c070585" />
 
