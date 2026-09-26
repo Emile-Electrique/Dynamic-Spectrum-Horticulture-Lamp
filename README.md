@@ -42,6 +42,9 @@ The main driver board handles power regulation, channel control, sensing and com
 
 The LED tiles are also custom-designed. Each tile integrates multiple LED spectra on an aluminum-core PCB to improve thermal transfer and create a compact, modular light source.
 
+<img width="4624" height="3472" alt="HortiLamp_image" src="https://github.com/user-attachments/assets/fc7aca96-fb67-4cbf-ac9f-c12d2e2e8e7f" />
+
+
 <img width="1723" height="1022" alt="EG50TL Render" src="https://github.com/user-attachments/assets/64289ebe-c966-4bc6-b3bf-6ef162107f5f" />
 
 
