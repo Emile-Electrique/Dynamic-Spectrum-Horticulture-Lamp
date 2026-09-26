@@ -1,6 +1,8 @@
 <img width="4624" height="1934" alt="HortiLamp_image_cropped" src="https://github.com/user-attachments/assets/33b9b72a-dd6d-4e2b-8e40-6cc757a2ef10" />
 
-# Project Overview
+# Survol du projet
+
+Ce projet à pour but de démontrer expérimentalement quel est le flux lumineux idéal pour la croissance de plante d'une espèce spécifique. La qualification du flux lumineux étant basé sur les différentes de longueures d'ondes qui constitue ce signal. À l'aide d'une plateforme électronique expérimentale qui permet de moduler le signal lumineux, on cherche à mesurer l'effet sur la croissance en le modifiant graduellement. L'objectif est de charactériser une espèce de plante en terme du mélange optique idéal pour sa croissance.
 
 This project is an experimental horticultural lighting platform developed to study how precise spectral control can influence plant growth.
 
