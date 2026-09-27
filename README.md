@@ -1,14 +1,12 @@
 <img width="4624" height="1934" alt="HortiLamp_image_cropped" src="https://github.com/user-attachments/assets/33b9b72a-dd6d-4e2b-8e40-6cc757a2ef10" />
 
-# Project Overview
+# Survol du projet
 
-This project is an experimental horticultural lighting platform developed to study how precise spectral control can influence plant growth.
-
-The project compares **targeted-spectrum LED lighting** with more traditional fixed-spectrum approaches. Its main objective is to determine whether dynamically controlled light can support crop steering and enable lighting recipes that evolve throughout the different stages of a grow cycle.
+Ce projet à pour but de démontrer expérimentalement quel est le flux lumineux idéal pour la croissance de plante d'une espèce spécifique. La qualification du flux lumineux étant basé sur les différentes de longueures d'ondes qui constitue le signal optique envoyé vers le canopé. À l'aide d'une plateforme électronique et optique expérimentale qui permet de moduler le signal, on cherche à mesurer l'effet sur la croissance de différents signaux. L'objectif est de charactériser une espèce de plante en terme du mélange optique idéal au cours de chaque stade de croissance.
 
 <img width="4624" height="3472" alt="Side_lamp" src="https://github.com/user-attachments/assets/037ad9dd-cfc5-48cd-9ade-279effa233b5" />
 
-## Project Objectives
+## Objectif de la recherche
 
 * Compare targeted spectral lighting with conventional horticultural lighting.
 * Independently control multiple spectral channels.
@@ -49,7 +47,7 @@ The LED tiles are also custom-designed. Each tile integrates multiple LED spectr
 
 
 
-## Modular Architecture
+## Modular Radio-Based Architecture
 
 A complete system consists of:
 
@@ -61,6 +59,10 @@ A complete system consists of:
 * Embedded control and data logging.
 
 This architecture allows the system to scale from approximately **100 W to 200 W** while keeping the same control platform.
+
+<img width="1920" height="1200" alt="manual_software" src="https://github.com/user-attachments/assets/24d9e306-34d4-4218-87db-669c30011e5c" />
+<img width="4624" height="3472" alt="schedule_picture" src="https://github.com/user-attachments/assets/da7d0fa6-09b3-40d0-8d27-4b07fe9d55ca" />
+
 
 ## Research Direction
 
