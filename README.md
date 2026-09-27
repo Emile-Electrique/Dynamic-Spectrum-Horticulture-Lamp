@@ -2,7 +2,7 @@
 
 # Survol du projet
 
-Ce projet à pour but de démontrer expérimentalement quel est le flux lumineux idéal pour la croissance de plante d'une espèce spécifique. La qualification du flux lumineux étant basé sur les différentes de longueures d'ondes qui constitue le signal optique envoyé vers le canopé. À l'aide d'une plateforme électronique et optique expérimentale qui permet de moduler le signal, on cherche à mesurer l'effet sur la croissance de différents signaux. L'objectif est de charactériser une espèce de plante en terme du mélange optique idéal pour sa croissance au cours de chaque étapes de croissance.
+Ce projet à pour but de démontrer expérimentalement quel est le flux lumineux idéal pour la croissance de plante d'une espèce spécifique. La qualification du flux lumineux étant basé sur les différentes de longueures d'ondes qui constitue le signal optique envoyé vers le canopé. À l'aide d'une plateforme électronique et optique expérimentale qui permet de moduler le signal, on cherche à mesurer l'effet sur la croissance de différents signaux. L'objectif est de charactériser une espèce de plante en terme du mélange optique idéal au cours de chaque stade de croissance.
 
 <img width="4624" height="3472" alt="Side_lamp" src="https://github.com/user-attachments/assets/037ad9dd-cfc5-48cd-9ade-279effa233b5" />
 
